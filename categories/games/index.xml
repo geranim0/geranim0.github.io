@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on Samuel Lacaille-Moisan - Software Engineer</title>
+    <link>geranim0.github.io/categories/games/</link>
+    <description>Recent content in Games on Samuel Lacaille-Moisan - Software Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="geranim0.github.io/categories/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tetris Bot</title>
+      <link>geranim0.github.io/projects/2020/10/31/tetris-bot/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>geranim0.github.io/projects/2020/10/31/tetris-bot/</guid>
+      <description>Sam project 2</description>
+    </item>
+    
+  </channel>
+</rss>
