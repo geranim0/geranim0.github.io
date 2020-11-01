@@ -3,67 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>geranim0.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>geranim0.github.io/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>geranim0.github.io/tags/c&#43;&#43;/</loc>
+    <loc>/tags/c&#43;&#43;/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>geranim0.github.io/categories/c&#43;&#43;/</loc>
+    <loc>/categories/c&#43;&#43;/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>geranim0.github.io/tags/cache/</loc>
+    <loc>/tags/cache/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>geranim0.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>geranim0.github.io/posts/2020/11/01/finding-out-l1-cache-size/</loc>
+    <loc>/posts/2020/11/01/finding-out-l1-cache-size/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>geranim0.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>geranim0.github.io/tags/games/</loc>
+    <loc>/tags/games/</loc>
     <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>geranim0.github.io/categories/games/</loc>
+    <loc>/categories/games/</loc>
     <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>geranim0.github.io/projects/</loc>
+    <loc>/projects/</loc>
     <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>geranim0.github.io/projects/2020/10/31/tetris-bot/</loc>
+    <loc>/projects/2020/10/31/tetris-bot/</loc>
     <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>geranim0.github.io/contact/</loc>
+    <loc>/contact/</loc>
   </url>
   
 </urlset>
